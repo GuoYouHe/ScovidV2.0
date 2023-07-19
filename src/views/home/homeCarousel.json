@@ -1,0 +1,64 @@
+{
+  "imgList": [
+    {
+      "id": 0,
+      "src": "Browse.png",
+      "title": "Browse",
+      "content": "The Browse interface provides accession to the dataset based on different classifications, including COVID-19 single-cell RNA-seq data, COVID-19 bulk RNA-seq data, and other coronavirus data."
+    },
+    {
+      "id": 1,
+      "src": "Search.png",
+      "title": "Search",
+      "content": "The Search interface provides query results for (i) expression of genes with different thresholds in multiple data types, and (ii) gene expression under data-type-specificity, cell-type-specificity, and cell-subtype-specificity."
+    },
+    {
+      "id": 2,
+      "src": "Data description.png",
+      "title": "Data description",
+      "content": "The results show the details of each dataset, including tissue information, sample sources, sample numbers, cell counts, cell types, and publications."
+    },
+    {
+      "id": 3,
+      "src": "Cell feature.png",
+      "title": "Cell feature",
+      "content": "The results visualize the detailed distribution of cells and find differentially expressed genes in different clusters."
+    },
+    {
+      "id": 4,
+      "src": "Cell proportion.png",
+      "title": "Cell proportion",
+      "content": "The results show the proportion of cells in each sample, including (i) cell types and subtypes in the single-cell RNA-seq data, and (ii) the proportion of pseudo-cells calculated by Cibersort in the bulk RNA-seq data."
+    },
+    {
+      "id": 5,
+      "src": "Differential expression.png",
+      "title": "Differential expression",
+      "content": "The module uses a standard and uniform pipeline for differential expression analysis of each dataset, with results provided for analysis in tabular form and visualization in volcano plot form."
+    },
+    {
+      "id": 6,
+      "src": "Functional analysis.png",
+      "title": "Functional analysis",
+      "content": "Exploring the differentially expressed genes (DEGs) biological functions based on Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways."
+    },
+    {
+      "id": 7,
+      "src": "Heat map.png",
+      "title": "Heat map",
+      "content": "The results show the expression profile of high-variance genes in different cell types and subtypes."
+    },
+    {
+      "id": 8,
+      "src": "Cell communication.png",
+      "title": "Cell communication",
+      "content": "The results explain Cell-Cell interaction and interaction strength between different cell types and subtypes."
+    },
+    {
+      "id": 9,
+      "src": "Cell differentiation.png",
+      "title": "Cell differentiation",
+      "content": "The results reconstruct and visualize cell trajectory in the whole differentiation process."
+    }
+  ]
+}

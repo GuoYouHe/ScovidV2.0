@@ -1,0 +1,58 @@
+{
+  "health_sc": [
+    85, 31, 21, 47, 2, 2, 11, 8, 5, 2, 14, 5, 4, 2, 12, 0, 0, 0, 0, 0
+  ],
+  "coronavirus_sc": [
+    220, 98, 47, 36, 6, 4, 32, 24, 4, 2, 37, 4, 8, 4, 12, 0, 0, 0, 0, 0 
+  ],
+  "health_bulk": [
+    230, 81, 85, 44, 11, 25, 6, 27, 14, 11, 0, 0, 0, 0, 0, 13, 9, 13, 3, 9
+  ],
+  "coronavirus_bulk": [
+    658, 183, 80, 47, 42, 28, 6, 24, 25, 13, 0, 0, 0, 0, 0, 17, 9, 22, 3, 15
+  ],
+  "sc_name": [
+    "Blood",
+    "Lung",
+    "Heart",
+    "Brain",
+    "Nose",
+    "Intestines",
+    "Liver",
+    "Airway",
+    "Placenta",
+    "Pancreas",
+    "Kidney",
+    "Lymph node",
+    "Urine",
+    "Spleen",
+    "Adipose",
+    "Stomach",
+    "Eye",
+    "HCoV-229E",
+    "HCoV-OC43",
+    "MERS-CoV"
+  ],
+  "bulk_name": [
+    "Blood",
+    "Lung",
+    "Heart",
+    "Brain",
+    "Nose",
+    "Intestines",
+    "Liver",
+    "Airway",
+    "Placenta",
+    "Pancreas",
+    "Kidney",
+    "Lymph node",
+    "Urine",
+    "Spleen",
+    "Adipose",
+    "Stomach",
+    "Eye",
+    "HCoV-229E",
+    "HCoV-OC43",
+    "MERS-CoV"
+  ]
+}

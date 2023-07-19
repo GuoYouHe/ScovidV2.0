@@ -1,0 +1,59 @@
+<svg version="1.1" id="test_1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" enable-background="new 0 0 595.28 841.89" xml:space="preserve">
+  <g id="m" onclick="alert('提醒：该吃药了！')" onmouseover="document.getElementById('bg').opacity='1'" onmouseout="document.getElementById('bg').opacity='0.5'">
+    <g id="bg" opacity="0.5">
+      <circle id="_x32_" opacity="0.3" fill="#B59BC8" cx="243.081" cy="149.346" r="73"/>
+      <circle id="_x31_" opacity="0.3" fill="#B59BC8" cx="332.081" cy="149.346" r="73"/>
+    </g>
+    <!-- <g>
+      <g>
+        <g>
+          <path fill="#FFFFFF" stroke="#4E469A" stroke-width="2" stroke-miterlimit="10" d="M253.815,127.921
+                    c-7.194-7.194-18.857-7.193-26.051,0c-7.194,7.194-7.194,18.857,0,26.051l21.424,21.424l26.051-26.051L253.815,127.921z"/>
+          <path fill="#FFFFFF" stroke="#4E469A" stroke-width="2" stroke-miterlimit="10" d="M275.24,149.346"/>
+          <path fill="#FFFFFF" stroke="#4E469A" stroke-width="2" stroke-miterlimit="10" d="M249.189,175.397"/>
+
+          <line fill="#FFFFFF" stroke="#4E469A" stroke-width="2" stroke-miterlimit="10" x1="275.24" y1="149.346" x2="249.189" y2="175.397"/>
+        </g>
+
+        <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -38.0124 232.9738)" fill="#E4DAEB" stroke="#4E469A" stroke-width="2" stroke-miterlimit="10" cx="262.214" cy="162.371" rx="18.421" ry="8"/>
+        <path fill="#E7E4F2" d="M263.428,144.776c0.683,0.684,0.683,1.792,0,2.475l0,0c-0.684,0.683-1.792,0.683-2.475,0l-8.132-8.132
+                c-0.683-0.683-0.683-1.792,0-2.475l0,0c0.684-0.683,1.792-0.683,2.475,0L263.428,144.776z"/>
+        <path fill="#E7E4F2" d="M250.877,132.048c0.732,0.732,0.732,1.919,0,2.652l0,0c-0.732,0.732-1.919,0.732-2.652,0l0,0
+                c-0.732-0.732-0.732-1.919,0-2.652l0,0C248.958,131.316,250.145,131.316,250.877,132.048L250.877,132.048z"/>
+      </g>
+      <g>
+        <g>
+          <path fill="#FFFFFF" stroke="#4E469A" stroke-width="2" stroke-miterlimit="10" d="M336.326,153.973
+                    c7.193-7.194,7.193-18.857,0-26.051c-7.193-7.194-18.857-7.194-26.051,0l-21.425,21.424l26.052,26.051L336.326,153.973z"/>
+          <path fill="#FFFFFF" stroke="#4E469A" stroke-width="2" stroke-miterlimit="10" d="M314.902,175.397"/>
+          <path fill="#FFFFFF" stroke="#4E469A" stroke-width="2" stroke-miterlimit="10" d="M288.851,149.346"/>
+
+          <line fill="#FFFFFF" stroke="#4E469A" stroke-width="2" stroke-miterlimit="10" x1="314.902" y1="175.397" x2="288.851" y2="149.346"/>
+        </g>
+
+        <ellipse transform="matrix(0.7071 0.7071 -0.7071 0.7071 203.2255 -165.8995)" fill="#E4DAEB" stroke="#4E469A" stroke-width="2" stroke-miterlimit="10" cx="301.876" cy="162.372" rx="18.421" ry="8"/>
+      </g>
+      <g>
+        <circle fill="#402A8C" cx="266.721" cy="178.414" r="1.838"/>
+        <circle fill="#402A8C" cx="270.397" cy="185.251" r="1.838"/>
+        <circle fill="#402A8C" cx="280.753" cy="168.251" r="1.838"/>
+        <circle fill="#402A8C" cx="281.633" cy="192.603" r="1.838"/>
+        <circle fill="#402A8C" cx="275.24" cy="190.765" r="1.838"/>
+        <circle fill="#402A8C" cx="285.309" cy="174.739" r="1.838"/>
+        <circle fill="#402A8C" cx="287.672" cy="183.414" r="1.838"/>
+        <circle fill="#402A8C" cx="292.526" cy="178.414" r="1.838"/>
+        <circle fill="#402A8C" cx="285.834" cy="197.677" r="1.838"/>
+        <circle fill="#402A8C" cx="279.796" cy="201.501" r="1.838"/>
+        <circle fill="#402A8C" cx="281.634" cy="211.927" r="1.838"/>
+        <circle fill="#402A8C" cx="274.581" cy="208.251" r="1.838"/>
+        <circle fill="#402A8C" cx="280.752" cy="185.252" r="1.838"/>
+        <circle fill="#402A8C" cx="277.077" cy="178.414" r="1.838"/>
+      </g>
+    </g> -->
+  </g>
+  <circle x="15" y="15" width="40" height="40" fill="red">
+    <set attributeName="fill" to="blue" begin="click"/>
+  </circle>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="40" height="32"
+  xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <title>Layer 1</title>
+    <path fill="none" stroke="#000" id="svg_1"/>
+    <path stroke="null" id="svg_2" fill="currentColor" d="m19.62179,15.24626l-6.77343,-5.99188l1.89656,-1.73765l3.52217,3.11577l0,-9.76674l2.70939,0l0,9.76674l3.52217,-3.11577l1.89656,1.73765c-2.25782,1.9973 -4.51564,3.99458 -6.77343,5.99188zm-10.8375,4.79348l0,-5.99188l2.70937,0l0,3.59511l16.25626,0l0,-3.59511l2.70939,0l0,5.99188l-21.67499,0l-0.00002,0z"/>
+    <text font-style="normal" font-weight="bold" stroke="#fff" fill="#fff" stroke-width="0" x="249.98021" y="271.04769" id="svg_4" font-size="3" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(2.17802 0 0 2.19674 -543.345 -567.262)">Save as pdf</text>
+  </g>
+
+</svg>

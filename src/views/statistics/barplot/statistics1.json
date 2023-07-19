@@ -1,0 +1,74 @@
+{
+  "health_sc": [
+    36, 35, 33, 23, 23, 17, 17, 13, 12, 12, 11, 11, 10, 9, 7, 7, 7, 4, 3, 3, 2,
+    2, 2, 2, 1, 0
+  ],
+  "cancer_sc": [
+    13, 23, 15, 1, 0, 18, 15, 4, 4, 4, 2, 8, 0, 0, 0, 4, 0, 0, 0, 3, 0, 0, 0, 0,
+    0, 1
+  ],
+  "health_bulk": [
+    2349, 1962, 1752, 1460, 986, 932, 767, 407, 903, 873, 328, 542, 451, 383,
+    292, 326, 833, 78, 70, 103, 27, 130, 56, 34, 490, 0
+  ],
+  "cancer_bulk": [
+    381, 639, 655, 8, 0, 384, 1037, 70, 151, 140, 26, 129, 0, 0, 0, 158, 0, 0,
+    0, 187, 0, 0, 0, 0, 0, 8
+  ],
+  "sc_name": [
+    "liver",
+    "breast",
+    "colon",
+    "stomach",
+    "ovarian",
+    "melanoma",
+    "lung",
+    "lymphoma",
+    "pancreas",
+    "prostate",
+    "kidney",
+    "brain",
+    "glioblastoma",
+    "sarcoma",
+    "thyroid",
+    "bladder",
+    "blood",
+    "esophagus",
+    "thymus",
+    "bile duct",
+    "testicular",
+    "headneck",
+    "cervical",
+    "uterine",
+    "rectum",
+    "mesothelioma"
+  ],
+  "bulk_name": [
+    "liver",
+    "breast",
+    "colon",
+    "stomach",
+    "ovarian",
+    "melanoma",
+    "lung",
+    "lymphoma",
+    "pancreas",
+    "prostate",
+    "kidney",
+    "brain",
+    "glioblastoma",
+    "sarcoma",
+    "thyroid",
+    "bladder",
+    "blood",
+    "esophagus",
+    "thymus",
+    "bile duct",
+    "testicular",
+    "headneck",
+    "cervical",
+    "uterine",
+    "rectum",
+    "mesothelioma"
+  ]
+}
